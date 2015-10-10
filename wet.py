@@ -1,0 +1,4 @@
+import fileinput
+
+wall = '|'
+:
